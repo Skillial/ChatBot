@@ -1,7 +1,7 @@
-#Note: SWI-Prolog version 9.0.4 <br>
-#Note: Make sure to make swipl as an environmental variable <br>
+Note: SWI-Prolog version 9.0.4 <br>
+Note: Make sure to make swipl as an environmental variable <br>
  <br>
-##How to run the program: <br>
+How to run the program: <br>
     1. Run ChatBot.exe <br>
  <br>
 How to make swipl an environmental variable: <br>
