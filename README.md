@@ -1,10 +1,3 @@
-Cabrera, Jean
-Dy, Sealtiel
-Lu, Bentley
-Ong, Camron
-
-README
-
 Note: SWI-Prolog version 9.0.4
 Note: Make sure to make swipl as an environmental variable
 
